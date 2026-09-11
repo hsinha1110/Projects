@@ -41,5 +41,6 @@
 - ✅ Used weight for bottom-aligned content
 - ✅ Managed Email and Password state using remember and mutableStateOf
 
-https://github.com/hsinha1110/Projects/blob/fd83e4855d99e53b63c2ead06c2709ff4090aae1/Screenshot_1789128728.png
-https://github.com/hsinha1110/Projects/blob/5dd1ac233cbf8082d317a200f738090d73f705e3/Screenshot_1789128757.png
+![image alt](https://github.com/hsinha1110/Projects/blob/fd83e4855d99e53b63c2ead06c2709ff4090aae1/Screenshot_1789128728.png)
+![image alt](https://github.com/hsinha1110/Projects/blob/5dd1ac233cbf8082d317a200f738090d73f705e3/Screenshot_1789128757.png)
+
