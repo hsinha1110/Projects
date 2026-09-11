@@ -1,5 +1,4 @@
-<img width="1080" height="2424" alt="Screenshot_1789128728" src="https://github.com/user-attachments/assets/1dbc20a5-54a2-473b-948f-976c4c4a8e17" />
-<img width="1080" height="2424" alt="Screenshot_1789128757" src="https://github.com/user-attachments/assets/7eadc995-1620-4d6b-833f-2390fba6a269" />
+
 ## 📅 11 September 2026 — Android Jetpack Compose
 
 ### 🔐 Login Screen UI
